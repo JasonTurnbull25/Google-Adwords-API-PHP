@@ -1,3 +1,6 @@
+4.6.0:
+- Added support and examples for v201309.
+
 4.5.1:
 - Reintroduced WSDL Interpreter for generating PHP stubs from WSDLS.
 
